@@ -1,0 +1,7 @@
+com\mycompany\reportes\Agente_soporte.class
+com\mycompany\reportes\Operador_turístico.class
+com\mycompany\reportes\Reportes.class
+com\mycompany\reportes\Usuario.class
+com\mycompany\reportes\reporte_incidente.class
+com\mycompany\reportes\Cliente.class
+com\mycompany\reportes\GestorIncidentesSingleton.class
