@@ -9,5 +9,8 @@ package com.mycompany.notificaciones;
  * @author Ayman El Salous Mnz
  */
 public class AdministraReserva {
-    
+    public void gestionarReserva(Reserva reserva, String nuevoEstado) {
+        reserva.actualizarEstado(nuevoEstado);
+        System.out.println("Reserva actualizada al estado: " + nuevoEstado);
+    }
 }
