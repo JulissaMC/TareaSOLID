@@ -9,6 +9,7 @@ package com.mycompany.notificaciones;
  * @author Ayman El Salous Mnz
  */
 public class AdministraItinerario {
+    private String idAdministraIt;
     public void gestionarItinerario(Itinerario itinerario, String nuevoDetalle) {
         itinerario.actualizarItinerario(nuevoDetalle);
         System.out.println("Itinerario actualizado con nuevo detalle: " + nuevoDetalle);
