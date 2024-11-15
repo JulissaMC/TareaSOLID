@@ -9,5 +9,5 @@ package com.mycompany.notificaciones;
  * @author Ayman El Salous Mnz
  */
 public class AdministraCanales {
-    
+    //se intento eliminar esta clase, esta clase no tiene uso alguno.
 }
